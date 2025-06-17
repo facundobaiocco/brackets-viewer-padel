@@ -17,7 +17,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Drarig29/brackets-viewer.js.git"
+        "url": "git+https://github.com/facundobaiocco/brackets-viewer-padel.git"
     },
     "keywords": [
         "javascript",
@@ -29,17 +29,17 @@
     "author": "Corentin Girard",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/Drarig29/brackets-viewer.js/issues"
+        "url": "https://github.com/facundobaiocco/brackets-viewer-padel.git/issues"
     },
     "browserslist": [
         "defaults",
         "not IE 11"
     ],
-    "homepage": "https://github.com/Drarig29/brackets-viewer.js#readme",
+    "homepage": "https://github.com/facundobaiocco/brackets-viewer-padel.git#readme",
     "dependencies": {
         "brackets-manager": "^1.6.2",
         "brackets-memory-db": "^1.0.4",
-        "brackets-model": "^1.5.0",
+        "brackets-model-padel": "github:facundobaiocco/brackets-model-padel",
         "i18next": "^21.6.14",
         "i18next-browser-languagedetector": "^6.1.4",
         "path-browserify": "^1.0.1",
